@@ -1,16 +1,11 @@
-2023/07/27-13:27:30.353 7f5 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/27-13:27:30.355 7f5 Delete type=2 #9
-2023/07/27-13:27:30.355 7f5 Delete type=2 #15
-2023/07/27-13:27:30.355 7f5 Delete type=2 #13
-2023/07/27-13:39:22.306 7f7 Level-0 table #36: started
-2023/07/27-13:39:22.309 7f7 Level-0 table #36: 7098 bytes OK
-2023/07/27-13:39:22.311 7f7 Delete type=0 #34
-2023/07/27-13:39:22.311 7f7 Compacting 4@0 + 1@1 files
-2023/07/27-13:39:22.314 7f7 Generated table #37@0: 525 keys, 4074 bytes
-2023/07/27-13:39:22.314 7f7 Compacted 4@0 + 1@1 files => 4074 bytes
-2023/07/27-13:39:22.315 7f7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/27-13:39:22.316 7f7 Delete type=2 #32
-2023/07/27-13:39:22.316 7f7 Delete type=2 #22
-2023/07/27-13:39:22.317 7f7 Delete type=2 #36
-2023/07/27-13:39:22.317 7f7 Delete type=2 #26
-2023/07/27-13:39:22.317 7f7 Delete type=2 #28
+2023/07/28-13:27:04.210 7f3 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-13:27:04.211 7f3 Delete type=2 #9
+2023/07/28-13:27:04.211 7f3 Delete type=2 #32
+2023/07/28-13:27:04.211 7f3 Delete type=2 #22
+2023/07/28-13:27:04.211 7f3 Delete type=2 #15
+2023/07/28-13:27:04.211 7f3 Delete type=2 #26
+2023/07/28-13:27:04.211 7f3 Delete type=2 #28
+2023/07/28-13:27:04.211 7f3 Delete type=2 #13
+2023/07/28-13:34:36.985 7f3 Level-0 table #41: started
+2023/07/28-13:34:36.987 7f3 Level-0 table #41: 6994 bytes OK
+2023/07/28-13:34:36.989 7f3 Delete type=0 #39
