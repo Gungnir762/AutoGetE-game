@@ -1,8 +1,8 @@
-2023/08/03-13:26:56.301 7e4 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
-2023/08/03-13:26:56.302 7e4 Delete type=2 #9
-2023/08/03-13:26:56.302 7e4 Delete type=2 #17
-2023/08/03-13:26:56.302 7e4 Delete type=2 #21
-2023/08/03-13:26:56.302 7e4 Delete type=2 #13
-2023/08/03-13:50:36.397 7e4 Level-0 table #34: started
-2023/08/03-13:50:36.400 7e4 Level-0 table #34: 9887 bytes OK
-2023/08/03-13:50:36.403 7e4 Delete type=0 #32
+2023/08/04-13:27:32.621 821 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
+2023/08/04-13:27:32.626 821 Delete type=2 #17
+2023/08/04-13:27:32.626 821 Delete type=2 #9
+2023/08/04-13:27:32.626 821 Delete type=2 #21
+2023/08/04-13:27:32.626 821 Delete type=2 #13
+2023/08/04-13:49:21.642 821 Level-0 table #38: started
+2023/08/04-13:49:21.644 821 Level-0 table #38: 9834 bytes OK
+2023/08/04-13:49:21.645 821 Delete type=0 #36
