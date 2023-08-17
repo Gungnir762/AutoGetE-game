@@ -1,20 +1,12 @@
-2023/08/10-13:28:06.129 803 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
-2023/08/10-13:28:06.146 803 Delete type=2 #17
-2023/08/10-13:28:06.146 803 Delete type=2 #9
-2023/08/10-13:28:06.146 803 Delete type=2 #21
-2023/08/10-13:28:06.146 803 Delete type=2 #13
-2023/08/10-13:44:58.722 801 Level-0 table #42: started
-2023/08/10-13:44:58.724 801 Level-0 table #42: 9834 bytes OK
-2023/08/10-13:44:58.726 801 Delete type=0 #40
-2023/08/10-13:44:58.727 801 Compacting 4@0 + 1@1 files
-2023/08/10-13:44:58.731 801 Generated table #43@0: 2653 keys, 19593 bytes
-2023/08/10-13:44:58.731 801 Compacted 4@0 + 1@1 files => 19593 bytes
-2023/08/10-13:44:58.733 801 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/10-13:44:58.733 801 Delete type=2 #38
-2023/08/10-13:44:58.734 801 Delete type=2 #34
-2023/08/10-13:44:58.734 801 Delete type=2 #42
-2023/08/10-13:44:58.734 801 Delete type=2 #26
-2023/08/10-13:44:58.734 801 Delete type=2 #30
-2023/08/10-13:52:47.007 801 Level-0 table #45: started
-2023/08/10-13:52:47.017 801 Level-0 table #45: 10808 bytes OK
-2023/08/10-13:52:47.020 801 Delete type=0 #41
+2023/08/11-13:26:57.180 7f0 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
+2023/08/11-13:26:57.186 7f0 Delete type=2 #17
+2023/08/11-13:26:57.186 7f0 Delete type=2 #38
+2023/08/11-13:26:57.186 7f0 Delete type=2 #9
+2023/08/11-13:26:57.186 7f0 Delete type=2 #34
+2023/08/11-13:26:57.186 7f0 Delete type=2 #21
+2023/08/11-13:26:57.186 7f0 Delete type=2 #13
+2023/08/11-13:26:57.186 7f0 Delete type=2 #26
+2023/08/11-13:26:57.186 7f0 Delete type=2 #30
+2023/08/11-13:49:11.800 7ee Level-0 table #49: started
+2023/08/11-13:49:11.802 7ee Level-0 table #49: 10011 bytes OK
+2023/08/11-13:49:11.804 7ee Delete type=0 #47
