@@ -1,24 +1,12 @@
-2023/08/17-13:27:24.406 807 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
-2023/08/17-13:27:24.408 807 Delete type=2 #17
-2023/08/17-13:27:24.408 807 Delete type=2 #38
-2023/08/17-13:27:24.408 807 Delete type=2 #9
-2023/08/17-13:27:24.408 807 Delete type=2 #34
-2023/08/17-13:27:24.408 807 Delete type=2 #21
-2023/08/17-13:27:24.408 807 Delete type=2 #13
-2023/08/17-13:27:24.408 807 Delete type=2 #26
-2023/08/17-13:27:24.408 807 Delete type=2 #30
-2023/08/17-13:41:01.057 807 Level-0 table #53: started
-2023/08/17-13:41:01.059 807 Level-0 table #53: 9830 bytes OK
-2023/08/17-13:41:01.062 807 Delete type=0 #51
-2023/08/17-13:52:04.654 807 Level-0 table #55: started
-2023/08/17-13:52:04.657 807 Level-0 table #55: 10714 bytes OK
-2023/08/17-13:52:04.661 807 Delete type=0 #52
-2023/08/17-13:52:04.664 807 Compacting 4@0 + 1@1 files
-2023/08/17-13:52:04.678 807 Generated table #56@0: 4757 keys, 34811 bytes
-2023/08/17-13:52:04.678 807 Compacted 4@0 + 1@1 files => 34811 bytes
-2023/08/17-13:52:04.679 807 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/08/17-13:52:04.680 807 Delete type=2 #53
-2023/08/17-13:52:04.680 807 Delete type=2 #55
-2023/08/17-13:52:04.680 807 Delete type=2 #43
-2023/08/17-13:52:04.681 807 Delete type=2 #49
-2023/08/17-13:52:04.681 807 Delete type=2 #45
+2023/08/18-13:27:08.674 821 Reusing MANIFEST /home/runner/work/AutoGetE-game/AutoGetE-game/epic/src/database/users/52f18ce559ca1ef3a1e07d4471647b9f3ebfbd81ea3fd67fe1fedcf8bd21d044/Default/Session Storage/MANIFEST-000001
+2023/08/18-13:27:08.676 821 Delete type=2 #17
+2023/08/18-13:27:08.676 821 Delete type=2 #38
+2023/08/18-13:27:08.676 821 Delete type=2 #43
+2023/08/18-13:27:08.676 821 Delete type=2 #9
+2023/08/18-13:27:08.676 821 Delete type=2 #34
+2023/08/18-13:27:08.676 821 Delete type=2 #21
+2023/08/18-13:27:08.676 821 Delete type=2 #13
+2023/08/18-13:27:08.676 821 Delete type=2 #49
+2023/08/18-13:27:08.676 821 Delete type=2 #45
+2023/08/18-13:27:08.676 821 Delete type=2 #26
+2023/08/18-13:27:08.676 821 Delete type=2 #30
